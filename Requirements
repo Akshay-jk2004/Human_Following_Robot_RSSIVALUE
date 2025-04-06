@@ -1,0 +1,6 @@
+# Required Libraries for AURA Project
+# Install using: pip install -r requirements.txt
+
+pyserial
+esptool
+
