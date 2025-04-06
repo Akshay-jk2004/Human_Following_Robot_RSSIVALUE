@@ -4,7 +4,7 @@ AURA is an intelligent, semi-autonomous robotic system built using **ESP32**, ca
 
 ## 🏆 Achievements
 
-- 🥈 Secured **Second Prize** at the **Robotic Expo** conducted by the **Department of Artificial Intelligence and Data Science**, Muthoot Institute of Technology and Science.
+- 🥈 Secured **Second Prize** at the **Robotic Expo2025** conducted by the **Department of Artificial Intelligence and Data Science**, **Muthoot Institute of Technology and Science.**
 
 ---
 
